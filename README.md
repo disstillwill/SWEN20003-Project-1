@@ -1,4 +1,4 @@
-# SWEN20003 Project 1
+# SWEN20003 S1 2020 Project 1
 
 This repository contains my final submission for Project 1 of SWEN20003 Object Oriented Software Development.
 
