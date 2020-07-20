@@ -1,0 +1,24 @@
+Functionality
+-------------
+Map Loading: 2/2
+Slicer Spawning: 2/2
+Polyline Traversal: 2/2
+Slicer Orientation: 1.5/2
+Game Ending: 2/2
+
+Code Style
+-----------
+Delegation: 2/2
+Methods: 1/1
+Cohesion: 1/1
+Style: 0.5/1 
+
+Overall
+----------
+14/15
+
+Feedback
+--------
+Slicers are jittery while turning. Well done otherwise. Good use of classes, implemented correctly with useful method
+names. DIFFERENCE_THRESHOLD should be dynamically allocated instead of being constant. (Side note: there is no need to
+create a main package inside src)
