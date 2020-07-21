@@ -8,5 +8,9 @@ This repository contains my final submission for Project 1 of SWEN20003 Object O
 * `ShadowDefend Project 1 Specification.pdf` - Project specification
 * `project-1-wsvoboda.txt` - Grade report with breakdown of marks received
 
+## Credits
+
+* [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/) - A Java graphics library
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
